@@ -1,4 +1,4 @@
 <?php
-echo("Hello Children!");
+echo("Hello Adult!");
 
 ?>
